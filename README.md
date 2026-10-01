@@ -1,6 +1,9 @@
-# Git Practice - Maksude Ala
+# Git Practice — Maksude Ala
 
-**Name:** Md. Maksude Ala
+| | |
+|---|---|
+| **Name** | Md. Maksude Ala |
+| **GitHub** | [@loftyala](https://github.com/loftyala) |
 
 ## What this project does
 
@@ -30,3 +33,10 @@ git-practice-maksude/
 ```bash
 python3 src/main.py
 ```
+
+## Calculator functions (src/utils.py)
+
+- `add(a, b)`
+- `subtract(a, b)`
+- `multiply(a, b)`
+- `divide(a, b)` — raises `ValueError` on division by zero
