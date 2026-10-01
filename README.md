@@ -40,3 +40,9 @@ python3 src/main.py
 - `subtract(a, b)`
 - `multiply(a, b)`
 - `divide(a, b)` — raises `ValueError` on division by zero
+
+## Submission
+
+- **Full Name:** Md. Maksude Ala
+- **GitHub Username:** [loftyala](https://github.com/loftyala)
+- **Repository Link:** https://github.com/loftyala/git-practice-maksude
